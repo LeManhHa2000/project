@@ -1,0 +1,20 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    width: 600px;
+}
+
+a {
+    color: blue;
+}
+
+figure {
+    margin: 0;
+    width: 600px;
+}
+
+figure img {
+    max-width: 600px;
+}
